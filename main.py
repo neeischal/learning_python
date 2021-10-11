@@ -1,4 +1,7 @@
-name = input("Hi,what is your name? ")
-print("hello " + name)
+# Input name from user
+name = input("What is your name? ")
+
+# Input age from user
 age=input("what is your age? ")
-print("it means you are " + age)
+
+print("Hi", name, "You are", age, "Years old")
