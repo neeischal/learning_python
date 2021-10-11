@@ -1,7 +1,10 @@
-# Input name from user
-name = input("What is your name? ")
+age=input("what is your age")
 
-# Input age from user
-age=input("what is your age? ")
+age=int(age)
 
-print("Hi", name, "You are", age, "Years old")
+if(age<18):
+  print("you are a bachaa")
+elif(age>=18 and age<=21 ):
+  print("you are barely an adult")
+elif(age>21):
+  print("you are an adult")
