@@ -1,3 +1,5 @@
+str1_number=142
+
 string = "Hello World " + str(123)
 integer = 123 + int(str1_number)
 floating = 1.334
