@@ -16,46 +16,34 @@
     ],
     "main.py": [
       {
-        "id": "e8f91ee8-b6e6-45e0-bbcd-fdc043d936f6",
-        "line": 1,
-        "version": 714,
-        "index": 0
-      },
-      {
-        "id": "fe2a1c17-c95d-4428-8ddd-1ea15e98390d",
-        "line": 1,
-        "version": 714,
-        "index": 0
-      },
-      {
-        "id": "bac9f594-4b4e-44d8-acb1-c2fd3892ffd1",
-        "line": 1,
-        "version": 714,
-        "index": 0
-      },
-      {
-        "id": "2dfda26c-916d-44d0-9e75-875558bc8320",
-        "line": 1,
-        "version": 714,
-        "index": 0
-      },
-      {
-        "id": "ac4626b6-eb16-43e1-a78c-1d84dbaa42e3",
-        "line": 1,
-        "version": 714,
-        "index": 0
-      },
-      {
         "id": "5e57ef55-b70c-477c-beed-eb0a190e801b",
         "line": 1,
-        "version": 714,
+        "version": 3643,
         "index": 0
       },
       {
         "id": "1a4234ea-6b51-49f8-a2b1-729070a2d48e",
-        "line": 15,
-        "version": 714,
-        "index": 137
+        "line": 1,
+        "version": 3643,
+        "index": 0
+      },
+      {
+        "id": "fd7c194e-538d-4c60-9dc8-4137de26e8f4",
+        "line": 1,
+        "version": 3643,
+        "index": 0
+      },
+      {
+        "id": "a06ede9d-3c6e-4d2d-b0ac-456e9bb42752",
+        "line": 3,
+        "version": 3643,
+        "index": 27
+      },
+      {
+        "id": "79389158-a950-4e81-a84c-777d306c2fe6",
+        "line": 4,
+        "version": 3928,
+        "index": 28
       }
     ]
   }
