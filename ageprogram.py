@@ -1,4 +1,4 @@
-age=input("what is your age")
+age=input("what is your age   ")
 
 age=int(age)
 
