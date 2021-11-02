@@ -1,7 +1,7 @@
-1.The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela1.
-2.The way to get started is to quit talking and begin doing. -Walt Disney
-3.Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking. -Steve Jobs
-4.If life were predictable it would cease to be life, and be without flavor. -Eleanor Roosevelt
-5.If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough. -Oprah Winfrey
-6.If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. -James Cameron
-7.Life is what happens when you're busy making other plans. -John Lennon
+a=("1.The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela.")
+b=("2.The way to get started is to quit talking and begin doing. -Walt Disney")
+c=("3.Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking. -Steve Jobs")
+d=("4.If life were predictable it would cease to be life, and be without flavor. -Eleanor Roosevelt")
+e=("5.If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough. -Oprah Winfrey")
+f=("6.If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. -James Cameron")
+g=("7.Life is what happens when you're busy making other plans. -John Lennon")

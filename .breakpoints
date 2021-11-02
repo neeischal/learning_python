@@ -16,40 +16,16 @@
     ],
     "main.py": [
       {
-        "id": "79389158-a950-4e81-a84c-777d306c2fe6",
+        "id": "647e25e5-9dc4-4930-9396-86b76c1b2423",
         "line": 1,
-        "version": 4251,
+        "version": 8210,
         "index": 0
       },
       {
-        "id": "b9434ef5-53cb-4711-be0d-20689c451ba1",
+        "id": "aa2e1301-5134-4d82-8240-d76255a759cc",
         "line": 1,
-        "version": 4251,
+        "version": 8210,
         "index": 0
-      },
-      {
-        "id": "67dc748f-f3d9-4ead-8f93-b20cb4dec9fd",
-        "line": 1,
-        "version": 4251,
-        "index": 0
-      },
-      {
-        "id": "2230d11b-54b9-43e1-9dba-ef505007daf2",
-        "line": 5,
-        "version": 4554,
-        "index": 94
-      },
-      {
-        "id": "172837a2-f13a-4b7c-b486-5dc9d1ce56f0",
-        "line": 17,
-        "version": 4538,
-        "index": 414
-      },
-      {
-        "id": "bfb0e1a8-3e3f-446d-a3fe-b7c832d0dfde",
-        "line": 19,
-        "version": 4538,
-        "index": 470
       }
     ]
   }
