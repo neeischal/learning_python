@@ -11,3 +11,5 @@ print(type(integer), "=", integer )
 print(type(floating))
 print(type(boolean))
 print(type(character))
+
+print (string)
